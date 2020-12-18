@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 我是wjw
+### 我是wjw
 # 秦皇岛的一名初二学生
 
 
@@ -7,7 +7,7 @@
 
 
 
-菜逼一个
+（菜逼一个
 
 <!--
 **wjw233/wjw233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
