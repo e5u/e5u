@@ -1,6 +1,7 @@
-### 👋 Hi there 
-
+ 
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=e5u&fontSize=68)
+
+### 👋 Hi there
 
 ## 💻 Working environment
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)<br>
