@@ -15,6 +15,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e5u)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
+#### Genshin Impact Statics
+![](https://genshin-card.getloli.com/rand/178839538.png)
