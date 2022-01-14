@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=e5u&fontSize=68)
 
@@ -12,8 +12,8 @@
 ## 📱 Devices in use
 [![Xiaomi A3](https://img.shields.io/badge/Xiaomi%20A3-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hk/mi-a3/)
 
-
+#### 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e5u)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Genshin Impact Statics
+#### 🎮 Genshin Impact Statics
 ![](https://genshin-card.getloli.com/rand/178839538.png)
