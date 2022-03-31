@@ -10,4 +10,4 @@
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)<br>
 [![macOS Big Sur](https://img.shields.io/badge/macOS%20Big%20Sur-4f4f4f?style=flat-square&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 
-![Metrics](https://raw.githubusercontent.com/e5u/e5u/main/github-metrics.svg)https://raw.githubusercontent.com/e5u/e5u/main/github-metrics.svg
+![Metrics](https://raw.githubusercontent.com/e5u/e5u/main/github-metrics.svg)
