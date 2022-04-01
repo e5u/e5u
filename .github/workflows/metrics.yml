@@ -23,7 +23,7 @@ jobs:
 
           # Options
           user: e5u
-          template: classic
+          template: terminal
           base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
           plugin_languages: yes
@@ -38,3 +38,9 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_music: yes
           plugin_music_playlist: https://open.spotify.com/embed/playlist/1RGN6VFfglMgBXyHGoGoWf?utm_source=generator
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
