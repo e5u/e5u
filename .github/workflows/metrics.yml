@@ -24,7 +24,7 @@ jobs:
           # Options
           user: e5u
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
