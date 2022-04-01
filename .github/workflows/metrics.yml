@@ -42,5 +42,3 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
