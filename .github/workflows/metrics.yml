@@ -37,9 +37,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_music: yes
-          plugin_music_mode: top
-          plugin_music_provider: spotify
-          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
-          plugin_music_time_range: short
-          plugin_music_top_type: recent
-          plugin_music_limit: 4
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/1RGN6VFfglMgBXyHGoGoWf?utm_source=generator
