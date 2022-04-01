@@ -24,10 +24,8 @@ jobs:
           # Options
           user: e5u
           template: terminal
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -38,5 +36,13 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_music: yes
+          plugin_music_limit: 4
+          plugin_music_played_at: yes
+          plugin_music_playlist: https://open.spotify.com/playlist/37i9dQZF1E38BW3lqlmwv1
+          plugin_music_provider: spotify
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_user: .user.login
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: .user.website
