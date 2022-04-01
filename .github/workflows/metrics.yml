@@ -23,7 +23,7 @@ jobs:
 
           # Options
           user: e5u
-          template: terminal
+          template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
           plugin_languages: yes
