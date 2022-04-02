@@ -12,7 +12,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: e5u
-          template: repository
+          template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
           plugin_languages: yes
