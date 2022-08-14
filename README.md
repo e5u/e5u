@@ -23,4 +23,5 @@
 [![Moondrop QUARKS](https://img.shields.io/badge/Moondrop%20QUARKS-808A87?style=flat-square)](https://moondroplab.com/cn/products/quarks)
 
 ### 📊 Metrics
+![card](https://raw.githubusercontent.com/e5u/netease-cloud-music-card/main/card.svg)
 ![Metrics](https://raw.githubusercontent.com/e5u/e5u/main/github-metrics.svg)
