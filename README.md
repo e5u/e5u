@@ -23,5 +23,5 @@
 [![Moondrop QUARKS](https://img.shields.io/badge/Moondrop%20QUARKS-808A87?style=flat-square)](https://moondroplab.com/cn/products/quarks)
 
 ### 📊 Metrics
-[![打不开哦，挂个梯子看看吧]()()]
+[![macOS Monterey](https://raw.githubusercontent.com/e5u/netease-cloud-music-card/main/card.svg)](https://music.163.com/#/user/home?id=2117389815)
 ![打不开哦，挂个梯子看看吧](https://raw.githubusercontent.com/e5u/e5u/main/github-metrics.svg)
