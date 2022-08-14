@@ -14,8 +14,8 @@
 [![OPPO A9](https://img.shields.io/badge/OPPO%20A9-0f743d?style=flat-square)](https://www.oppo.com/en/smartphones/series-a/a9/)
 [![OPPO A37](https://img.shields.io/badge/OPPO%20A37-0f743d?style=flat-square)](https://www.oppo.com/in/smartphones/series-a/a37)
 [![VIVO Y51](https://img.shields.io/badge/Vivo%20Y51%202015-415fff?style=flat-square)](#)
-[![VIVO Y55](https://img.shields.io/badge/Vivo%20Y55%202015-415fff?style=flat-square)](#)
-[![VIVO Y66](https://img.shields.io/badge/Vivo%20Y66%202015-415fff?style=flat-square)](https://www.vivo.com/in/products/y66)
+[![VIVO Y55](https://img.shields.io/badge/Vivo%20Y55%202016-415fff?style=flat-square)](#)
+[![VIVO Y66](https://img.shields.io/badge/Vivo%20Y66-415fff?style=flat-square)](https://www.vivo.com.cn/vivo/param/y66)
 
 ### 🎧 Earphones
 [![Redmi Airdots 3](https://img.shields.io/badge/Redmi%20Airdots%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
