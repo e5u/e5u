@@ -26,6 +26,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_music: no
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_facts: no
-          plugin_habits_charts: yes
+          plugin_habits_charts: no
