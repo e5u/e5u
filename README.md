@@ -2,10 +2,9 @@
 ![打不开哦，挂个梯子看看吧](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&animation=fadeIn&section=header&text=e5u&fontSize=68)
 
 ## 💻 Working environment
-[![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
+[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://microsoft.com/windows/?r=1)
 [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
-[![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-4f4f4f?style=flat-square&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
 
 ### 📱 Devices
 [![Xiaomi CC9e](https://img.shields.io/badge/Xiaomi%20CC9e-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/micc9e)
