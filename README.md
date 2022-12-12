@@ -1,10 +1,9 @@
- 
-![打不开哦，挂个梯子看看吧](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&animation=fadeIn&section=header&text=e5u&fontSize=68)
+ ![打不开哦，挂个梯子看看吧](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&animation=fadeIn&section=header&text=e5u&fontSize=68)
 
 ## 💻 Working environment
-[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
-[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://microsoft.com/windows/?r=1)
-[![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
+[![Android](https://img.shields.io/badge/Android%2013-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 
 ### 📱 Devices
 [![Xiaomi CC9e](https://img.shields.io/badge/Xiaomi%20CC9e-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/micc9e)
@@ -18,6 +17,7 @@
 
 ### 🎧 Earphones
 [![Redmi Airdots 3](https://img.shields.io/badge/Redmi%20Airdots%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
+[![Samsung AKG S10](https://img.shields.io/badge/Samsang%20AKG%20S10-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.akg.com/samsungxakg.html)
 [![KZ ZST](https://img.shields.io/badge/KZ%20ZST-292421?style=flat-square)](https://www.kzacoustics.com/2017/qterj_1027/5.html)
 [![Moondrop QUARKS](https://img.shields.io/badge/Moondrop%20QUARKS-808A87?style=flat-square)](https://moondroplab.com/cn/products/quarks)
 
