@@ -1389,7 +1389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hiproxy/hiproxy</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛠 hiproxy is a lightweight proxy tool for Front-End developers based on Node.js that supports an NGINX-like configuration. 🔥</div>
@@ -1442,7 +1442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mashed-potatoes/PotatoNV</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unlock bootloader of Huawei devices on Kirin 960/95х/65x/620</div>
@@ -1492,7 +1492,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2023, 19:11:07 (timezone Asia/Singapore) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 26 Jan 2023, 20:25:53 (timezone Asia/Singapore) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
