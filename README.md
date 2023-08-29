@@ -6,9 +6,9 @@
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 [![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=for-the-badge&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
 
-## 📱 Devices
+## 👨‍💻 Devices
 
-### Phone / Pad
+### 📱Phone / Pad
 
 ![Huawei Honor 20 Lite](https://img.shields.io/badge/Huawei%20Honor%2020%20Lite-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei Honor V30 ](https://img.shields.io/badge/Huawei%20Honor%20V30-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
@@ -30,7 +30,7 @@
 [![VIVO Y9s](https://img.shields.io/badge/Vivo%20Y9s-415fff?style=flat-square)](https://www.vivo.com/vivo/param/y9s)
 
 
-### Router / WiFi
+### 📶 Router / WiFi
 [![Redmi Router WiFi AC2100](https://img.shields.io/badge/Redmi%20WiFi%20Router%20AC2100-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/rm2100)
 [![Xiaomi Mi WiFi Router 3A](https://img.shields.io/badge/Xiaomi%20Mi%20WiFi%20Router%203A-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/miwifi3a)
 [![MERCURY WiFi Router D191GM](https://img.shields.io/badge/MERCURY%20D191GM-db140d?style=flat-square)](https://www.mercurycom.com.cn/product-557-1.html)
