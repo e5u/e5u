@@ -1,9 +1,9 @@
  ![打不开哦，挂个梯子看看吧](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&animation=fadeIn&section=header&text=e5u&fontSize=68)
 
 ## 💻 Working environment
-[![Android](https://img.shields.io/badge/Android%2012-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-12/)
+[![Android](https://img.shields.io/badge/Android%2014-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-14/)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org)
-[![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/windows/windows-11)
+[![Windows 10](https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/windows/windows-10)
 [![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=for-the-badge&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
 
 ## 👨‍💻 Devices
@@ -18,6 +18,7 @@
 [![OPPO A37](https://img.shields.io/badge/OPPO%20A37-0f743d?style=flat-square)](https://www.oppo.com/in/smartphones/series-a/a37)
 [![OPPO A5](https://img.shields.io/badge/OPPO%20A5-0f743d?style=flat-square)](#)
 [![OPPO A9](https://img.shields.io/badge/OPPO%20A9-0f743d?style=flat-square)](https://www.oppo.com/en/smartphones/series-a/a9/)
+[![OnePlus 10 Pro](https://img.shields.io/badge/OnePlus%2010%20Pro-f50514?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/global/10-pro)
 [![Xiaomi CC9e](https://img.shields.io/badge/Xiaomi%20CC9e-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/micc9e)
 [![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/note4g)
 [![Redmi Note 9 Pro](https://img.shields.io/badge/Redmi%20Note%209%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote9pro)
