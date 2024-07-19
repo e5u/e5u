@@ -15,6 +15,7 @@
 ![Huawei Honor V9 ](https://img.shields.io/badge/Huawei%20Honor%20V9-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 [![iPad 2](https://img.shields.io/badge/iPad%202-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP622)
 [![iPhone 6s Plus](https://img.shields.io/badge/iPhone%206s%20Plus-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP727)
+[![MEIZU 20](https://img.shields.io/badge/MEIZU%2020%20Classic-008CFF?style=flat-square)](https://detail.meizu.com/item/meizu20Classic.html)
 [![OPPO A37](https://img.shields.io/badge/OPPO%20A37-0f743d?style=flat-square)](https://www.oppo.com/in/smartphones/series-a/a37)
 [![OPPO A5](https://img.shields.io/badge/OPPO%20A5-0f743d?style=flat-square)](#)
 [![OPPO A9](https://img.shields.io/badge/OPPO%20A9-0f743d?style=flat-square)](https://www.oppo.com/en/smartphones/series-a/a9/)
