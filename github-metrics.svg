@@ -1344,7 +1344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-ani/animeko</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ... 100% Kotlin Compose Multiplatform</div>
@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tnze/miband-heart-rate</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">接收小米手环 “运动心率广播” Demo</div>
@@ -1447,7 +1447,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2024, 14:20:08 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Nov 2024, 15:13:16 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
