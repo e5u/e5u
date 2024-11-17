@@ -1349,7 +1349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DaoCloud/public-image-mirror</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</div>
@@ -1402,7 +1402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Gaoyifei1011/GetStoreApp</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">离线下载 Microsoft Store 商店应用</div>
@@ -1452,7 +1452,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2024, 05:13:20 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2024, 06:13:37 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
