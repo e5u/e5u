@@ -1408,7 +1408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>agoda-com/macOS-vz-kubelet</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run native macOS workloads on Kubernetes</div>
@@ -1458,7 +1458,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2024, 00:19:24 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Dec 2024, 01:14:07 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
