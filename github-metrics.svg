@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>backslashxx/mountify</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Globally mounted modules via OverlayFS.</div>
@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NeteaseCloudMusicApiEnhanced/api-enhanced</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔍 A revival project for NeteaseCloudMusicApi Node.js Services || 网易云音乐 API 备份 + 增强 || 本项目自原版v4.28.0版本后开始自行维护</div>
@@ -1436,7 +1436,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2025, 18:17:18 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2025, 19:13:43 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
