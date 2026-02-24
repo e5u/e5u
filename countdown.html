@@ -1,0 +1,246 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>倒计时 · 2026/02/27 12:15</title>
+  <link href="https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&family=Playfair+Display:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --rose-1: #ff9ab3;
+      --rose-2: #ff4d7e;
+      --cream: #fff1f6;
+      --berry: #7a1033;
+      --gold: #f7c6d0;
+      --shadow: rgba(122, 16, 51, 0.25);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      background:
+        radial-gradient(circle at 20% 20%, #ffd7e1 0%, transparent 45%),
+        radial-gradient(circle at 80% 0%, #ffe6ef 0%, transparent 40%),
+        linear-gradient(135deg, #fff5f8 0%, #ffe0ea 100%);
+      font-family: "ZCOOL XiaoWei", "Playfair Display", serif;
+      color: var(--berry);
+      overflow: hidden;
+    }
+
+    .floating-hearts {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      opacity: 0.35;
+    }
+
+    .floating-hearts span {
+      position: absolute;
+      font-size: 22px;
+      animation: float 12s linear infinite;
+      filter: drop-shadow(0 4px 10px rgba(122, 16, 51, 0.2));
+    }
+
+    .card {
+      width: min(720px, 92vw);
+      padding: 40px 36px 36px;
+      background: rgba(255, 255, 255, 0.86);
+      border: 1px solid rgba(255, 77, 126, 0.15);
+      border-radius: 28px;
+      box-shadow: 0 20px 60px var(--shadow);
+      text-align: center;
+      position: relative;
+      backdrop-filter: blur(6px);
+    }
+
+    .ribbon {
+      position: absolute;
+      top: -20px;
+      right: 24px;
+      padding: 8px 16px;
+      background: linear-gradient(120deg, var(--rose-2), var(--rose-1));
+      color: white;
+      font-weight: 700;
+      border-radius: 999px;
+      box-shadow: 0 10px 20px rgba(255, 77, 126, 0.3);
+      letter-spacing: 0.5px;
+    }
+
+    h1 {
+      margin: 10px 0 8px;
+      font-size: clamp(28px, 4vw, 42px);
+      letter-spacing: 1px;
+    }
+
+    .subtitle {
+      margin: 0 0 28px;
+      font-size: clamp(16px, 2.4vw, 20px);
+      color: rgba(122, 16, 51, 0.8);
+    }
+
+    .timer {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .unit {
+      background: var(--cream);
+      border-radius: 18px;
+      padding: 18px 10px;
+      border: 1px solid rgba(255, 77, 126, 0.18);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .unit::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at top, rgba(255, 255, 255, 0.9), transparent 60%);
+      opacity: 0.7;
+    }
+
+    .value {
+      font-size: clamp(30px, 5vw, 52px);
+      font-weight: 700;
+      color: var(--rose-2);
+      position: relative;
+      z-index: 1;
+    }
+
+    .label {
+      font-size: 14px;
+      letter-spacing: 2px;
+      margin-top: 8px;
+      color: rgba(122, 16, 51, 0.7);
+      position: relative;
+      z-index: 1;
+    }
+
+    .message {
+      margin-top: 26px;
+      font-size: clamp(18px, 2.6vw, 24px);
+    }
+
+    .heart {
+      display: inline-block;
+      color: var(--rose-2);
+      animation: beat 1.4s infinite;
+      margin: 0 6px;
+    }
+
+    .footer {
+      margin-top: 14px;
+      font-size: 13px;
+      color: rgba(122, 16, 51, 0.6);
+    }
+
+    @keyframes beat {
+      0%, 100% { transform: scale(1); }
+      40% { transform: scale(1.15); }
+      60% { transform: scale(0.95); }
+    }
+
+    @keyframes float {
+      0% { transform: translateY(110vh) translateX(0) rotate(0deg); opacity: 0; }
+      10% { opacity: 1; }
+      100% { transform: translateY(-10vh) translateX(30px) rotate(16deg); opacity: 0; }
+    }
+
+    @media (max-width: 560px) {
+      .timer { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .card { padding: 32px 24px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="floating-hearts" aria-hidden="true">
+    <span style="left: 10%; animation-delay: 0s;">❤</span>
+    <span style="left: 26%; animation-delay: 2s; font-size: 18px;">❤</span>
+    <span style="left: 40%; animation-delay: 4s;">❤</span>
+    <span style="left: 58%; animation-delay: 1s; font-size: 24px;">❤</span>
+    <span style="left: 74%; animation-delay: 3s;">❤</span>
+    <span style="left: 88%; animation-delay: 5s; font-size: 20px;">❤</span>
+  </div>
+
+  <main class="card">
+    <div class="ribbon">倒计时</div>
+    <h1>距离我们见面</h1>
+    <p class="subtitle">2026 / 02 / 27 · 12:15</p>
+
+    <section class="timer" aria-live="polite">
+      <div class="unit">
+        <div id="days" class="value">--</div>
+        <div class="label">天</div>
+      </div>
+      <div class="unit">
+        <div id="hours" class="value">--</div>
+        <div class="label">小时</div>
+      </div>
+      <div class="unit">
+        <div id="minutes" class="value">--</div>
+        <div class="label">分钟</div>
+      </div>
+      <div class="unit">
+        <div id="seconds" class="value">--</div>
+        <div class="label">秒</div>
+      </div>
+    </section>
+
+    <p id="message" class="message">
+      好想你。 <span class="heart">❤</span>
+    </p>
+    <div class="footer" id="timezone"></div>
+  </main>
+
+  <script>
+    const target = new Date('2026-02-27T12:15:00');
+    const ids = {
+      days: document.getElementById('days'),
+      hours: document.getElementById('hours'),
+      minutes: document.getElementById('minutes'),
+      seconds: document.getElementById('seconds'),
+      message: document.getElementById('message'),
+      timezone: document.getElementById('timezone')
+    };
+
+    const format = (num) => String(num).padStart(2, '0');
+
+    const update = () => {
+      const now = new Date();
+      let diff = target - now;
+
+      if (diff <= 0) {
+        ids.days.textContent = '00';
+        ids.hours.textContent = '00';
+        ids.minutes.textContent = '00';
+        ids.seconds.textContent = '00';
+        ids.message.textContent = '此刻就是永恒，愿我们一直在一起 ❤';
+        return;
+      }
+
+      const seconds = Math.floor(diff / 1000);
+      const days = Math.floor(seconds / 86400);
+      const hours = Math.floor((seconds % 86400) / 3600);
+      const minutes = Math.floor((seconds % 3600) / 60);
+      const secs = seconds % 60;
+
+      ids.days.textContent = format(days);
+      ids.hours.textContent = format(hours);
+      ids.minutes.textContent = format(minutes);
+      ids.seconds.textContent = format(secs);
+    };
+
+    const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+    ids.timezone.textContent = `当前时区：${tz}`;
+
+    update();
+    setInterval(update, 1000);
+  </script>
+</body>
+</html>
