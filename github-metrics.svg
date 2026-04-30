@@ -1360,7 +1360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ToiCF/CF-Workers-TURN</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">基于 Cloudflare Workers 与 TURN 中继实现 TCP/UDP 出口代理实验，借助 TURN 协议的 TCP/UDP 中继能力突破 Workers 原生不支持 UDP 的限制，集成 VLESS over WebSocket 隧道、XUDP 多路复用及 TURN 服务扫描验证功能。</div>
@@ -1463,7 +1463,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 May 2026, 04:57:40 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2026, 05:57:18 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
